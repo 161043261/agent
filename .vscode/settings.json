@@ -1,0 +1,9 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
+  },
+  "editor.fontFamily": "Tokyo, Fira Code, Cascadia Code SemiLight, Yuanti SC, Sarasa Gothic SC",
+  "cSpell.words": ["Pressable"]
+}
